@@ -7,3 +7,5 @@ java AlbumCreator
 ```
 
 It will create index.html file in all directories recursively. That's it.
+
+[Demo](https://ashishdoneriya.github.io/html-gallery-creator/)
